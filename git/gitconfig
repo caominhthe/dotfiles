@@ -112,7 +112,7 @@
 [core]
   autocrlf = false
   editor = vim
-	excludesfile = /Users/trongtran/.gitignore
+	excludesfile = /Users/minhthecao/.gitignore
 [advice]
   statusHints = false
 [diff]
@@ -133,7 +133,5 @@
 	cmd = /Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
 	trustExitCode = true
 [user]
-	name = Trong Tran
-	email = trong.tran@sstechvn.com
-[commit]
-	template = /Users/trongtran/.stCommitMsg
+	name = TheCao
+	email = caominhthetg@gmail.com
